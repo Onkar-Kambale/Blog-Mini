@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1745854488505",
+    "title": "test1",
+    "content": "hello world ",
+    "author": "Tester",
+    "createdAt": "2025-04-28T15:34:48.505Z"
+  },
+  {
+    "id": "1745854547152",
+    "title": "Introduction to Computers",
+    "content": "good morning \n\ntoday we are starting with intro to computers",
+    "author": "XYZ",
+    "createdAt": "2025-04-28T15:35:47.152Z"
+  }
+]
